@@ -17,9 +17,22 @@ Project Description :
 Core Idea of Project is to build a sample prototype for Life style Parler Colabrated Website with customer care Bot for a Hospital with the help of HTML, CSS. This website is most visible and helpful to the patients Who have internet Access and connected to World Wide Web. This project deals with developing a website for Health Care Organisation. We are using Azure Technologies with GitHub to complete this project.
 
 Screenshots:
-![Screenshot (35)](https://user-images.githubusercontent.com/115976120/214538479-f66d1620-38ba-481c-8239-6ff4d0d4d8ff.png)
-![Screenshot (36)](https://user-images.githubusercontent.com/115976120/214538493-87183c4b-fa90-43a1-8794-ab4c54f3f7ed.png)
-![Screenshot (37)](https://user-images.githubusercontent.com/115976120/214538503-63be5350-4ecb-4268-93a5-47f239d48902.png)
+
+#Azure Health Bot#
+![Screenshot (1)](https://user-images.githubusercontent.com/115976120/216059897-f83429a1-f912-4898-b78a-2ab2020b1ae1.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/115976120/216059901-d63bd7d0-f0f6-447a-85cc-e06945ed6710.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/115976120/216059906-220b39df-f5bc-4262-9449-4149705e23b8.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/115976120/216059910-4b72ddaf-b188-470e-83a8-8b5951802551.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/115976120/216059914-368e85d4-176c-4ebf-99f2-655f2a9abf53.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/115976120/216059881-1868b2b9-ca84-4b53-9d51-1802d3889308.png)
+
+#Static Web Apps#
+![Screenshot (7)](https://user-images.githubusercontent.com/115976120/216060166-de2a689c-3446-4bc9-b198-b71ac444c479.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/115976120/216060170-10694f0d-b77d-468d-91db-bdb394c79a13.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/115976120/216060175-66d2d63b-44d6-410e-b72a-3de126a3facc.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/115976120/216060156-9e35cf71-4a74-4711-9ae9-770d4af033c3.png)
+
+#Others#
 ![Screenshot (38)](https://user-images.githubusercontent.com/115976120/214538519-64309c39-68c8-4738-b985-bab9aef492ec.png)
 ![Screenshot (39)](https://user-images.githubusercontent.com/115976120/214538534-0d7ad493-1fa5-4958-aa73-ef4c072e95e7.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/115976120/214538553-6eb86dba-f98b-496b-b5f0-322e019e3ab4.png)
