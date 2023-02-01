@@ -10,15 +10,15 @@ Industry : Health
 
 Problem Statement/Oppertunity:
 
-This is the prototype website desigened for Health and Beaty concious people.This website is used for booking the Appointment in Advance Without going to the Location.This website is desigened by using purly Microsoft Asure services and some other programing languages. 
+This is the prototype website designed for Health and Beauty concious people.This website is used for booking the Appointment in Advance without going to the Location.This website is designed by using purly Microsoft Azure services and some other programing languages. 
 
 Project Description :
 
-Core Idea of Project is to build a sample prototype for Life style Parler Colabrated Website with customer care Bot for a Hospital with the help of HTML, CSS. This website is most visible and helpful to the patients Who have internet Access and connected to World Wide Web. This project deals with developing a website for Health Care Organisation. We are using Azure Technologies with GitHub to complete this project.
+Core Idea of Project is to build a sample prototype for Life style Parlour Collabarated Website with customer care Bot for a Hospital with the help of HTML, CSS. This website is most visible and helpful to the patients Who have internet Access and connected to World Wide Web. This project deals with developing a website for Health Care Organisation. We are using Azure Technologies with GitHub to complete this project.
 
 Screenshots:
 
-#Azure Health Bot#
+#Azure Health Bot
 ![Screenshot (1)](https://user-images.githubusercontent.com/115976120/216059897-f83429a1-f912-4898-b78a-2ab2020b1ae1.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/115976120/216059901-d63bd7d0-f0f6-447a-85cc-e06945ed6710.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/115976120/216059906-220b39df-f5bc-4262-9449-4149705e23b8.png)
