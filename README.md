@@ -65,6 +65,6 @@ Other Azure Technologies : App Services.
 
 Project Demo Link:https://salmon-field-07d6af900.2.azurestaticapps.net/
 
-Github Repository:https://github.com/RayapativenkataHareesha/FINAL-PROJECT-OF-FRT.git
+Github Repository:https://https://github.com/RayapativenkataHareesha/FINAL-PROJECT-OF-FRT.git
 
 youtube Demo Video:https://youtu.be/0W9ITZaoNgk
