@@ -63,7 +63,7 @@ Static Web Apps
 
 Other Azure Technologies : App Services.
 
-Project Demo Link:https://victorious-forest-0c356b100.2.azurestaticapps.net/
+Project Demo Link:https://salmon-field-07d6af900.2.azurestaticapps.net/
 
 Github Repository:https://github.com/RayapativenkataHareesha/FINAL-PROJECT-OF-FRT.git
 
